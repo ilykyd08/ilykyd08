@@ -1,3 +1,4 @@
+[README-final.md](https://github.com/user-attachments/files/32236278/README-final.md)
 <div align="center">
 
 <!-- ===== BANNER ===== -->
@@ -15,7 +16,7 @@
 
 ## 🦈 About me
 
-<img align="right" width="220" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
+<img align="right" width="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTR3eDV4enZ4NHk5dG40bG82YmN5ZGdhMGNhYWdjcHdmcnU0a2ExeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ggnetrSQzSUHBRLIK9/giphy.gif"/>
 
 Hello there! I'm **ilykyd08**, and I love sharks, coding, and building fun projects on GitHub.
 
