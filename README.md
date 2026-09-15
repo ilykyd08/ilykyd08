@@ -1,10 +1,9 @@
 <img width="800" height="200" alt="matrix-banner-final" src="https://github.com/user-attachments/assets/cb9a040a-15e1-481a-869a-00031b4283ea" /><div align="center">
 
-(https://github.com/user-attachments/files/32235930/README-clean.md)
-<div align="center">
-
 <!-- ===== BANNER ===== -->
 <img src="./matrix-banner-final.svg" width="100%"/>
+
+<div align="center">
 
 <!-- ===== SOCIAL BADGES ===== -->
 [![Spotify](https://img.shields.io/badge/Spotify-000000?style=flat-square&logo=spotify&logoColor=1DB954)](https://open.spotify.com/user/31gd5zn44z7dogwmzuermoo4va5i?si=ae612a1dc53a451a)
