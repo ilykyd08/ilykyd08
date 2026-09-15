@@ -1,4 +1,3 @@
-[README-final.md](https://github.com/user-attachments/files/32236278/README-final.md)
 <div align="center">
 
 <!-- ===== BANNER ===== -->
