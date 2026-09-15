@@ -1,4 +1,4 @@
-[profile-README-template.md](https://github.com/user-attachments/files/32220795/profile-README-template.md)
+(https://github.com/user-attachments/files/32220795/profile-README-template.md)
 
 <div align="center">
 
@@ -8,11 +8,9 @@
 
 <!-- ===== SOCIAL BADGES ===== -->
 <!-- Replace the URLs after each -url= with your real profile links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourid)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
-
+[![Spotify](https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=spotify&logoColor=1DB954)]([https://open.spotify.com/user/yourprofile](https://open.spotify.com/user/31gd5zn44z7dogwmzuermoo4va5i?si=ae612a1dc53a451a))
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F)]([https://instagram.com/yourprofile](https://www.instagram.com/sharkabovethesea))
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/yourid)
 </div>
 
 ## 🦈 About Me
