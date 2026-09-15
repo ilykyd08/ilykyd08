@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ===== BANNER ===== -->
-<img src="./matrix-banner-final.svg" width="100%"/>
+<img src="./matrix-banner-final.svg" width="100%"/><img width="800" height="200" alt="matrix-banner-final (1)" src="https://github.com/user-attachments/assets/e67b3849-6273-47c4-95ec-d84187f7c150"/>
 
 <br/>
 
